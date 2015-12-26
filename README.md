@@ -7,4 +7,4 @@ python tictac.py
 
 ## Info:
 ###### A command-line Tic-Tac-Toe. You can play the AI; easy, medium, hard and impossible. 
-###### Written 2012.
+###### Written in 2012.
